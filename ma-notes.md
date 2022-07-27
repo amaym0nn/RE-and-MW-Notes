@@ -67,9 +67,19 @@
 
 &nbsp;
 
+## **Analiz Adımları**
 
+### **1 - Basic Statik Analizi:** Bu analizde program içerisindeki Assembly kodlarına bakılmadan önce yapılan analizdir. Virüstotal gibi yerlerde kontrol yapılır genellikle ve Malware Analizin ilk aşamasıdır. İleri Seviye Statik Analizi de yapılabilir. Ancak daha çok disassembler programları ile yapılmaktadır. Ancak Reverse'e hakim olmak gerekir.
 
-## Portable Executable File Format (PE Dosya Yapısı)
+&nbsp;
+
+### **2 - Basic Dinamik Analiz:** Bu analizde ise zararlı yazılım çalıştırılır. Malware'in davranışları, network trafikleri, register'lara eklediği değerler, oluşturulan dosyalar ve nerelere dosya yazıyor bunlar gözlenmek için Malware aktif hale getirilir.
+
+&nbsp;
+
+&nbsp;
+
+## **Portable Executable File Format (PE Dosya Yapısı)**
 
 ### Portable Executable file format, Windows'un çalıştırabilir dosya yapısıdır. Örnek gerekirse **dll, exe** gibi dosyalara örnek verilebilir. 
 
