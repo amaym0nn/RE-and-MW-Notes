@@ -1,1 +1,1 @@
-# malware-anaylsis-notlarim
+# Bu Repoda Malware Konusunda aldığım notlar yer alıyor. 
