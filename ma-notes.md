@@ -21,15 +21,15 @@
 
 &nbsp;
 
-### 2 - Truva Atları: Bu Malware ise normal uygulamaları taklit eder. Sıradan bir program gibi görünüp kurbanların indirmesi hedeflenir. Bu sayede malware sisteme bulaşır.  
+### 2 - Trojans (Truva Atları): Bu Malware ise normal uygulamaları taklit eder. Sıradan bir program gibi görünüp kurbanların indirmesi hedeflenir. Bu sayede malware sisteme bulaşır.  
 
 
 &nbsp;
 
-### 3 - Solucanlar: Bu Malware ise sistemin kusurlarından yararlanır. Bu sayede kendi aralarında çoğalarak diğer cihazlara yayılabilir. İşte burada sistem bilgisi ciddi anlamda artıyor. 
+### 3 - Worm (Solucan): Bu Malware ise sistemin kusurlarından yararlanır. Bu sayede kendi aralarında çoğalarak diğer cihazlara yayılabilir. İşte burada sistem bilgisi ciddi anlamda artıyor. 
 &nbsp;
 
-### 4 - Botnetler: Kısaca internette gezinirler. Çeşitli cihazlar içerisinde güvenlik açıkları arayan bir Malware çeşididir.
+### 4 - Botnets: Kısaca internette gezinirler. Çeşitli cihazlar içerisinde güvenlik açıkları arayan bir Malware çeşididir.
 
 &nbsp;
 
@@ -37,7 +37,7 @@
 
 &nbsp;
 
-### 6 - Casus Yazılımlar: Kullanıcının sistem içerisinde neler yaptığını izlemesine ve kaydetmesine olanak sağlayan bir malware türüdür. 
+### 6 - Spyware (Casus Yazılımlar): Kullanıcının sistem içerisinde neler yaptığını izlemesine ve kaydetmesine olanak sağlayan bir malware türüdür. 
 
 &nbsp;
 
