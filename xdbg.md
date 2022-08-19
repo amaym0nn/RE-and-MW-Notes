@@ -32,8 +32,11 @@
 
 &nbsp;
 
+<div align="center">
+
 <a href="https://ibb.co/f0KLxhX"><img src="https://i.ibb.co/zfLD4ym/xdbg-photo2.png" alt="xdbg-photo2" border="0"></a>
 
+<div>
 
 &nbsp;
 
@@ -61,7 +64,10 @@
 
 &nbsp;
 
+<div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/k4VKwKW/xdbg-photo-3.png" alt="xdbg-photo-3" border="0"></a>
+
+<div>
 
 &nbsp;
 
@@ -95,8 +101,11 @@
 
 &nbsp;
 
+<div align="center"><div>
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pJMtqmR/xdbg-photo4.png" alt="xdbg-photo4" border="0"></a>
 
+<div>
 &nbsp;
 
 ### Bir sonraki pencere, registerlar ile ilgili bilgiler içerir. Registerlar, daha sonra kullanılmak maksadıyla, kolayca referans alınabilecek verileri depolamak için program tarafından kullanılır. Bazıların ise belirli kullanımı vardır. 
@@ -123,7 +132,11 @@
 
 &nbsp;
 
+<div align="center">
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qJvB57C/xdbg-photo5.png" alt="xdbg-photo5" border="0"></a>
+
+<div>
 
 &nbsp;
 
@@ -137,8 +150,11 @@
 
 &nbsp;
 
+<div align="center">
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/LCrs0V2/xdbg-photo6.png" alt="xdbg-photo6" border="0"></a>
 
+<div>
 &nbsp;
 
 ### Dördüncü pencere, stack içerisine aktarılan stack'i, verileri ve bunların bellek adreslerini gösterir.
@@ -151,7 +167,10 @@
 
 &nbsp;
 
+<div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tD2P2ch/xdbg-photo7.png" alt="xdbg-photo7" border="0"></a>
+
+<div>
 
 &nbsp;
 
